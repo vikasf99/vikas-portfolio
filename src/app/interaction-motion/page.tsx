@@ -12,7 +12,7 @@ import { CommandPalette, useCommandPalette } from "@/components/ui/command-palet
 export default function InteractionMotionPage() {
   const { open, setOpen } = useCommandPalette();
   return (
-    <div className="flex min-h-screen justify-center bg-[color:var(--background-primary)] px-6 pb-36 pt-14">
+    <div className="flex min-h-screen justify-center bg-[color:var(--background-primary)] px-6 pb-36 pt-14 safe-top">
       <main className="flex w-full max-w-[640px] flex-col gap-14">
         <header className="sticky top-0 z-50 flex w-full items-center gap-3 bg-[color:var(--background-primary)]/95 backdrop-blur-sm py-4">
           <div className="flex flex-1 items-center gap-4">

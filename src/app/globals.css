@@ -152,8 +152,30 @@
   * {
     @apply border-border outline-ring/50;
   }
+  html {
+    height: 100%;
+    overflow-x: hidden;
+  }
   body {
     @apply bg-[color:var(--background-primary)] text-[color:var(--text-primary)];
+    min-height: 100%;
+    position: relative;
+    /* Prevent horizontal scroll */
+    overflow-x: hidden;
+  }
+  
+  /* Safe area top padding for mobile status bar */
+  .safe-top {
+    /* Add safe area inset for iOS devices with notch */
+    padding-top: max(env(safe-area-inset-top, 0px), 14px);
+  }
+  
+  /* Ensure main content respects safe areas on mobile */
+  @media (max-width: 768px) {
+    body {
+      /* Add top padding to prevent content behind status bar */
+      padding-top: env(safe-area-inset-top, 0px);
+    }
   }
   
   /* Icon filter for dark mode to match icon-subtle token */
