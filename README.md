@@ -2,6 +2,10 @@
 
 A modern, responsive portfolio website built with Next.js, React, and Tailwind CSS. Features dark/light mode, command palette navigation, and interactive animations.
 
+## 📋 Component Architecture
+
+This project uses custom UI components built following [shadcn/ui](https://ui.shadcn.com) design patterns. Components are manually implemented to match the Figma design specifications and use custom design tokens for theming.
+
 ## 🚀 Features
 
 - **Dark/Light Mode**: Seamless theme switching with persistent preferences
@@ -17,6 +21,7 @@ A modern, responsive portfolio website built with Next.js, React, and Tailwind C
 - **Styling**: Tailwind CSS 4
 - **Icons**: Lucide React
 - **TypeScript**: Full type safety
+- **UI Components**: Custom components inspired by [shadcn/ui](https://ui.shadcn.com) patterns
 
 ## 📦 Installation
 
@@ -49,6 +54,11 @@ npm start
 npm run build
 npm start
 ```
+
+## 🙏 Acknowledgments
+
+- UI component patterns inspired by [shadcn/ui](https://ui.shadcn.com)
+- Icons provided by [Lucide](https://lucide.dev)
 
 ## 📝 License
 
