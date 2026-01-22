@@ -19,9 +19,9 @@ import { CommandPalette, useCommandPalette } from "@/components/ui/command-palet
 export default function Home() {
   const { open, setOpen } = useCommandPalette();
   return (
-    <div className="flex min-h-screen justify-center bg-[color:var(--background-primary)] px-6 pb-36 pt-14 safe-top">
-      <main className="flex w-full max-w-[640px] flex-col gap-14">
-        <header className="sticky top-0 z-50 flex w-full items-center gap-3 bg-[color:var(--background-primary)]/95 backdrop-blur-sm py-4">
+    <div className="flex min-h-screen flex-col bg-[color:var(--background-primary)]">
+      <header className="fixed top-0 left-0 right-0 z-50 flex w-full items-center justify-center gap-3 bg-[color:var(--background-primary)]/95 backdrop-blur-sm px-6 py-4" style={{ paddingTop: `max(env(safe-area-inset-top, 0px), 14px)` }}>
+        <div className="flex w-full max-w-[640px] items-center gap-3">
           <div className="flex flex-1 items-center gap-4">
             <div className="flex h-16 w-16 items-center justify-center rounded-[80px] border border-[color:var(--border-subtle)] bg-[color:var(--background-subtle)]">
               <Avatar className="h-12 w-12">
@@ -55,9 +55,12 @@ export default function Home() {
           </button>
 
           <ModeToggle />
-        </header>
+        </div>
+      </header>
 
-        <section className="flex w-full flex-col gap-3">
+      <div className="flex flex-1 justify-center bg-[color:var(--background-primary)] px-6 pb-36" style={{ paddingTop: `calc(max(env(safe-area-inset-top, 0px), 14px) + 96px)` }}>
+        <main className="flex w-full max-w-[640px] flex-col gap-14">
+          <section className="flex w-full flex-col gap-3">
           <div className="flex w-full flex-wrap items-center gap-4">
             <p className="text-xl font-medium leading-none text-[color:var(--text-primary)]">
               Product Designer
@@ -312,7 +315,8 @@ export default function Home() {
             <p>Less is more</p>
           </div>
         </footer>
-      </main>
+        </main>
+      </div>
       <CommandPalette open={open} onOpenChange={setOpen} />
     </div>
   );
