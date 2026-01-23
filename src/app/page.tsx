@@ -63,7 +63,7 @@ export default function Home() {
           <section className="flex w-full flex-col gap-3">
           <div className="flex w-full flex-wrap items-center gap-4">
             <p className="text-xl font-medium leading-none text-[color:var(--text-primary)]">
-              Product Designer
+              Product Designer @
             </p>
             <div className="flex items-center gap-[2px]">
               <Image
@@ -78,15 +78,15 @@ export default function Home() {
             </div>
           </div>
           <p className="text-base font-light leading-6 text-[color:var(--text-tertiary)]">
-            Leading the Bayut App, a creative generalist, neurodivergent and
-            also transitioning to Design Engineering.
+            Neurodivergent thinker, I explore multiple design paths in parallel, then converge on what ships best.
+            Designing and building toward design engineering.
           </p>
         </section>
 
         <section data-section="work" className="flex w-full flex-col gap-8">
           <div className="flex w-full flex-col gap-3">
             <p className="text-xl font-medium leading-none text-[color:var(--text-primary)]">
-              My work
+              Selected work
             </p>
             <p className="text-base font-light leading-6 text-[color:var(--text-tertiary)]">
               Here’s how I think, decide, and ship under constraints

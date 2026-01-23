@@ -1570,3 +1570,7 @@ Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
 ✓ Compiled in 63ms
  GET / 200 in 516ms (compile: 117ms, render: 399ms)
  GET / 200 in 128ms (compile: 32ms, render: 96ms)
+ GET / 200 in 730ms (compile: 90ms, render: 640ms)
+✓ Compiled in 461ms
+✓ Compiled in 642ms
+✓ Compiled in 2.8s
