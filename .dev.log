@@ -1,0 +1,1576 @@
+
+> vikas-portfolio@0.1.0 dev
+> next dev -H localhost -p 3001 -H 127.0.0.1
+
+▲ Next.js 16.1.3 (Turbopack)
+- Local:         http://127.0.0.1:3001
+- Network:       http://127.0.0.1:3001
+- Experiments (use with caution):
+  · serverActions
+
+✓ Starting...
+Attention: Next.js now collects completely anonymous telemetry regarding usage.
+This information is used to shape Next.js' roadmap and prioritize features.
+You can learn more, including how to opt-out if you'd not like to participate in this anonymous program, by visiting the following URL:
+https://nextjs.org/telemetry
+
+✓ Ready in 1306ms
+ GET / 200 in 1200ms (compile: 1051ms, render: 149ms)
+ GET / 200 in 386ms (compile: 157ms, render: 229ms)
+ GET / 200 in 621ms (compile: 409ms, render: 212ms)
+ GET / 200 in 354ms (compile: 114ms, render: 240ms)
+✓ Compiled in 518ms
+ GET / 200 in 887ms (compile: 500ms, render: 387ms)
+ GET / 200 in 161ms (compile: 36ms, render: 125ms)
+ GET / 200 in 60ms (compile: 1903µs, render: 58ms)
+ GET / 200 in 73ms (compile: 17ms, render: 55ms)
+ GET / 200 in 149ms (compile: 17ms, render: 132ms)
+✓ Compiled in 297ms
+ GET / 200 in 628ms (compile: 402ms, render: 226ms)
+ GET / 200 in 120ms (compile: 8ms, render: 112ms)
+ GET / 200 in 164ms (compile: 16ms, render: 148ms)
+✓ Compiled in 250ms
+ GET / 200 in 475ms (compile: 429ms, render: 46ms)
+ GET / 200 in 478ms (compile: 322ms, render: 156ms)
+ GET / 200 in 126ms (compile: 12ms, render: 113ms)
+ GET / 200 in 418ms (compile: 38ms, render: 380ms)
+ GET / 200 in 478ms (compile: 153ms, render: 324ms)
+✓ Compiled in 0ms
+ GET / 200 in 425ms (compile: 22ms, render: 403ms)
+ GET / 200 in 134ms (compile: 19ms, render: 115ms)
+ GET / 200 in 76ms (compile: 1820µs, render: 74ms)
+ GET / 200 in 419ms (compile: 96ms, render: 322ms)
+ GET / 200 in 250ms (compile: 28ms, render: 222ms)
+✓ Compiled in 923ms
+ GET / 200 in 4.9s (compile: 3.4s, render: 1497ms)
+ GET / 200 in 6.5s (compile: 4.5s, render: 2.0s)
+ GET / 200 in 6.6s (compile: 4.1s, render: 2.6s)
+ GET / 200 in 937ms (compile: 172ms, render: 765ms)
+✓ Compiled in 264ms
+ GET / 200 in 2.0s (compile: 1834ms, render: 197ms)
+ GET / 200 in 2.0s (compile: 1956ms, render: 52ms)
+ GET / 200 in 1604ms (compile: 853ms, render: 751ms)
+✓ Compiled in 2.3s
+ GET / 200 in 3.2s (compile: 3.0s, render: 221ms)
+ GET / 200 in 2.9s (compile: 2.3s, render: 578ms)
+ GET / 200 in 2.9s (compile: 2.7s, render: 190ms)
+ GET / 200 in 463ms (compile: 233ms, render: 230ms)
+ GET / 200 in 150ms (compile: 76ms, render: 74ms)
+ GET / 200 in 471ms (compile: 317ms, render: 155ms)
+○ Compiling /_not-found/page ...
+ GET /figma/avatar-dark.png 404 in 8.3s (compile: 8.0s, render: 264ms)
+⨯ The requested resource isn't a valid image for /figma/avatar-dark.png received null
+ GET / 200 in 345ms (compile: 46ms, render: 299ms)
+ GET /figma/avatar-dark.png 404 in 343ms (compile: 80ms, render: 263ms)
+⨯ The requested resource isn't a valid image for /figma/avatar-dark.png received null
+ GET / 200 in 2.5s (compile: 463ms, render: 2.0s)
+ GET / 200 in 809ms (compile: 337ms, render: 472ms)
+ GET / 200 in 183ms (compile: 19ms, render: 164ms)
+ GET / 200 in 67ms (compile: 4ms, render: 63ms)
+ GET / 200 in 29ms (compile: 1220µs, render: 27ms)
+ GET / 200 in 157ms (compile: 13ms, render: 144ms)
+ GET / 200 in 642ms (compile: 207ms, render: 435ms)
+ GET / 200 in 830ms (compile: 258ms, render: 572ms)
+ GET / 200 in 93ms (compile: 17ms, render: 75ms)
+✓ Compiled in 559ms
+ GET / 200 in 1537ms (compile: 1232ms, render: 305ms)
+ GET / 200 in 656ms (compile: 125ms, render: 531ms)
+ GET / 200 in 434ms (compile: 16ms, render: 419ms)
+ GET / 200 in 190ms (compile: 154ms, render: 36ms)
+ GET / 200 in 196ms (compile: 105ms, render: 91ms)
+ GET / 200 in 229ms (compile: 144ms, render: 85ms)
+ GET / 200 in 234ms (compile: 90ms, render: 144ms)
+✓ Compiled in 471ms
+ GET / 200 in 1490ms (compile: 677ms, render: 813ms)
+ GET / 200 in 153ms (compile: 15ms, render: 138ms)
+ GET / 200 in 453ms (compile: 19ms, render: 434ms)
+✓ Compiled in 394ms
+ GET / 200 in 1302ms (compile: 1247ms, render: 55ms)
+ GET / 200 in 1277ms (compile: 1034ms, render: 242ms)
+ GET / 200 in 1968ms (compile: 675ms, render: 1292ms)
+ GET / 200 in 2.3s (compile: 809ms, render: 1526ms)
+✓ Compiled in 0ms
+ GET / 200 in 281ms (compile: 15ms, render: 266ms)
+ GET / 200 in 213ms (compile: 89ms, render: 125ms)
+ GET / 200 in 217ms (compile: 117ms, render: 101ms)
+ GET / 200 in 151ms (compile: 4ms, render: 147ms)
+ GET / 200 in 124ms (compile: 13ms, render: 111ms)
+ GET / 200 in 168ms (compile: 36ms, render: 132ms)
+✓ Compiled in 158ms
+ GET / 200 in 529ms (compile: 122ms, render: 406ms)
+ GET / 200 in 1202ms (compile: 5ms, render: 1197ms)
+ GET / 200 in 1002ms (compile: 5ms, render: 997ms)
+ GET / 200 in 147ms (compile: 20ms, render: 126ms)
+ GET / 200 in 75ms (compile: 4ms, render: 71ms)
+✓ Compiled in 327ms
+ GET / 200 in 1124ms (compile: 608ms, render: 516ms)
+ GET / 200 in 366ms (compile: 11ms, render: 354ms)
+ GET / 200 in 384ms (compile: 5ms, render: 380ms)
+ GET / 200 in 997ms (compile: 476ms, render: 520ms)
+ GET / 200 in 1156ms (compile: 274ms, render: 881ms)
+ GET / 200 in 467ms (compile: 5ms, render: 462ms)
+✓ Compiled in 124ms
+ GET / 200 in 468ms (compile: 124ms, render: 344ms)
+ GET / 200 in 465ms (compile: 333ms, render: 132ms)
+ GET / 200 in 547ms (compile: 4ms, render: 543ms)
+ GET /figma/icon-fujifolder.png 404 in 558ms (compile: 376ms, render: 182ms)
+ GET /figma/icon-headspace.png 404 in 302ms (compile: 161ms, render: 141ms)
+ GET /figma/icon-interaction-motion.png 404 in 281ms (compile: 152ms, render: 129ms)
+⨯ The requested resource isn't a valid image for /figma/icon-fujifolder.png received null
+⨯ The requested resource isn't a valid image for /figma/icon-headspace.png received null
+⨯ The requested resource isn't a valid image for /figma/icon-interaction-motion.png received null
+ GET /figma/icon-fujifolder.png 404 in 122ms (compile: 25ms, render: 98ms)
+ GET /figma/icon-headspace.png 404 in 116ms (compile: 26ms, render: 90ms)
+ GET /figma/icon-interaction-motion.png 404 in 119ms (compile: 53ms, render: 66ms)
+⨯ The requested resource isn't a valid image for /figma/icon-fujifolder.png received null
+⨯ The requested resource isn't a valid image for /figma/icon-headspace.png received null
+⨯ The requested resource isn't a valid image for /figma/icon-interaction-motion.png received null
+ GET / 200 in 252ms (compile: 116ms, render: 136ms)
+ GET / 200 in 278ms (compile: 164ms, render: 114ms)
+ GET / 200 in 100ms (compile: 1343µs, render: 99ms)
+⨯ Error: Event handlers cannot be passed to Client Component props.
+  <... src=... alt="" width={48} height=... className=... onError={function onError}>
+                                                                  ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at stringify (<anonymous>)
+    at stringify (<anonymous>) {
+  digest: '1152201622'
+}
+⨯ Error: Event handlers cannot be passed to Client Component props.
+  <... src=... alt="" width={48} height=... className=... onError={function onError}>
+                                                                  ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at stringify (<anonymous>)
+    at stringify (<anonymous>) {
+  digest: '1152201622'
+}
+⨯ Error: Event handlers cannot be passed to Client Component props.
+  <... src=... alt="" width={48} height=... className=... onError={function onError}>
+                                                                  ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at stringify (<anonymous>)
+    at stringify (<anonymous>) {
+  digest: '1152201622'
+}
+⨯ Error: Event handlers cannot be passed to Client Component props.
+  <... src=... alt="" width={48} height=... className=... onError={function onError}>
+                                                                  ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at stringify (<anonymous>)
+    at stringify (<anonymous>) {
+  digest: '1152201622'
+}
+⨯ Error: Event handlers cannot be passed to Client Component props.
+  <... src=... alt="" width={48} height=... className=... onError={function onError}>
+                                                                  ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at stringify (<anonymous>)
+    at stringify (<anonymous>) {
+  digest: '1152201622'
+}
+⨯ Error: Event handlers cannot be passed to Client Component props.
+  <... src=... alt="" width={48} height=... className=... onError={function onError}>
+                                                                  ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at stringify (<anonymous>)
+    at stringify (<anonymous>) {
+  digest: '1152201622'
+}
+⨯ Error: Event handlers cannot be passed to Client Component props.
+  <... src=... alt="" width={48} height=... className=... onError={function onError}>
+                                                                  ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at stringify (<anonymous>)
+    at stringify (<anonymous>) {
+  digest: '1152201622'
+}
+⨯ Error: Event handlers cannot be passed to Client Component props.
+  <... src=... alt="" width={48} height=... className=... onError={function onError}>
+                                                                  ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at stringify (<anonymous>)
+    at stringify (<anonymous>) {
+  digest: '1152201622'
+}
+⨯ Error: Event handlers cannot be passed to Client Component props.
+  <... src=... alt="" width={48} height=... className=... onError={function onError}>
+                                                                  ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at stringify (<anonymous>)
+    at stringify (<anonymous>) {
+  digest: '1152201622'
+}
+ GET / 200 in 1797ms (compile: 99ms, render: 1697ms)
+ GET / 200 in 1807ms (compile: 859ms, render: 948ms)
+ GET / 200 in 477ms (compile: 1287µs, render: 475ms)
+⨯ Error: Event handlers cannot be passed to Client Component props.
+  <... src=... alt="" width={48} height=... className=... onError={function onError}>
+                                                                  ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at stringify (<anonymous>)
+    at stringify (<anonymous>) {
+  digest: '1152201622'
+}
+⨯ Error: Event handlers cannot be passed to Client Component props.
+  <... src=... alt="" width={48} height=... className=... onError={function onError}>
+                                                                  ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at stringify (<anonymous>)
+    at stringify (<anonymous>) {
+  digest: '1152201622'
+}
+⨯ Error: Event handlers cannot be passed to Client Component props.
+  <... src=... alt="" width={48} height=... className=... onError={function onError}>
+                                                                  ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at stringify (<anonymous>)
+    at stringify (<anonymous>) {
+  digest: '1152201622'
+}
+ GET / 500 in 762ms (compile: 8ms, render: 753ms)
+✓ Compiled in 47ms
+ GET / 200 in 1368ms (compile: 219ms, render: 1150ms)
+ GET / 200 in 648ms (compile: 9ms, render: 638ms)
+ GET / 200 in 750ms (compile: 33ms, render: 717ms)
+ GET /figma/icon-fujifolder.png 404 in 1241ms (compile: 984ms, render: 257ms)
+ GET /figma/icon-headspace.png 404 in 1272ms (compile: 1064ms, render: 208ms)
+ GET /figma/icon-interaction-motion.png 404 in 1288ms (compile: 1081ms, render: 207ms)
+⨯ The requested resource isn't a valid image for /figma/icon-fujifolder.png received null
+⨯ The requested resource isn't a valid image for /figma/icon-headspace.png received null
+⨯ The requested resource isn't a valid image for /figma/icon-interaction-motion.png received null
+ GET /figma/icon-fujifolder.png 404 in 122ms (compile: 27ms, render: 95ms)
+ GET /figma/icon-headspace.png 404 in 140ms (compile: 49ms, render: 90ms)
+⨯ The requested resource isn't a valid image for /figma/icon-fujifolder.png received null
+⨯ The requested resource isn't a valid image for /figma/icon-headspace.png received null
+ GET /figma/icon-interaction-motion.png 404 in 281ms (compile: 75ms, render: 207ms)
+⨯ The requested resource isn't a valid image for /figma/icon-interaction-motion.png received null
+ GET /figma/icon-fujifolder.png 404 in 344ms (compile: 26ms, render: 318ms)
+⨯ The requested resource isn't a valid image for /figma/icon-fujifolder.png received null
+ GET /figma/icon-headspace.png 404 in 350ms (compile: 150ms, render: 200ms)
+⨯ The requested resource isn't a valid image for /figma/icon-headspace.png received null
+ GET /figma/icon-interaction-motion.png 404 in 107ms (compile: 14ms, render: 92ms)
+⨯ The requested resource isn't a valid image for /figma/icon-interaction-motion.png received null
+ GET / 200 in 412ms (compile: 99ms, render: 313ms)
+✓ Compiled in 235ms
+ GET / 200 in 1653ms (compile: 896ms, render: 757ms)
+ GET / 200 in 1655ms (compile: 1319ms, render: 336ms)
+ GET / 200 in 2.4s (compile: 7ms, render: 2.4s)
+✓ Compiled in 2.7s
+✓ Compiled in 2ms
+ GET / 200 in 1695ms (compile: 310ms, render: 1384ms)
+ GET / 200 in 1236ms (compile: 226ms, render: 1010ms)
+ GET / 200 in 908ms (compile: 20ms, render: 888ms)
+ GET / 200 in 911ms (compile: 45ms, render: 866ms)
+ GET / 200 in 868ms (compile: 8ms, render: 859ms)
+ GET / 200 in 616ms (compile: 8ms, render: 608ms)
+ GET / 200 in 408ms (compile: 174ms, render: 234ms)
+ GET / 200 in 409ms (compile: 306ms, render: 103ms)
+ GET / 200 in 94ms (compile: 7ms, render: 87ms)
+ GET / 200 in 506ms (compile: 40ms, render: 465ms)
+✓ Compiled in 551ms
+⚠ Fast Refresh had to perform a full reload when ./node_modules/next/dist/client/image-component.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+⚠ Fast Refresh had to perform a full reload when ./node_modules/next/dist/client/image-component.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+⚠ Fast Refresh had to perform a full reload when ./node_modules/next/dist/client/image-component.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ GET / 200 in 723ms (compile: 11ms, render: 712ms)
+ GET / 200 in 1482ms (compile: 612ms, render: 870ms)
+ GET / 200 in 423ms (compile: 33ms, render: 389ms)
+ GET / 200 in 1175ms (compile: 210ms, render: 965ms)
+ GET / 200 in 2.3s (compile: 551ms, render: 1765ms)
+ GET / 200 in 2.8s (compile: 11ms, render: 2.8s)
+ GET / 200 in 230ms (compile: 28ms, render: 202ms)
+ GET / 200 in 3.5s (compile: 6ms, render: 3.5s)
+ GET / 200 in 3.4s (compile: 11ms, render: 3.4s)
+ GET / 200 in 1909ms (compile: 9ms, render: 1901ms)
+✓ Compiled in 141ms
+✓ Compiled in 76ms
+ GET / 200 in 272ms (compile: 125ms, render: 147ms)
+ GET / 200 in 283ms (compile: 200ms, render: 84ms)
+ GET / 200 in 111ms (compile: 1953µs, render: 109ms)
+ GET /interaction-motion 200 in 1295ms (compile: 923ms, render: 373ms)
+ GET / 200 in 1214ms (compile: 138ms, render: 1075ms)
+ GET / 200 in 1066ms (compile: 8ms, render: 1059ms)
+ GET / 200 in 1034ms (compile: 14ms, render: 1019ms)
+ GET /interaction-motion 200 in 36ms (compile: 6ms, render: 30ms)
+✓ Compiled in 0ms
+ GET / 200 in 465ms (compile: 222ms, render: 244ms)
+ GET / 200 in 471ms (compile: 138ms, render: 333ms)
+ GET / 200 in 180ms (compile: 6ms, render: 174ms)
+ GET / 200 in 77ms (compile: 17ms, render: 60ms)
+ GET /interaction-motion 200 in 40ms (compile: 13ms, render: 26ms)
+✓ Compiled in 295ms
+✓ Compiled in 148ms
+ GET /interaction-motion 200 in 3.9s (compile: 3.0s, render: 809ms)
+ GET / 200 in 4.3s (compile: 3.3s, render: 1015ms)
+ GET / 200 in 2.8s (compile: 249ms, render: 2.6s)
+ GET / 200 in 3.9s (compile: 10ms, render: 3.9s)
+✓ Compiled in 0ms
+ GET /interaction-motion 200 in 673ms (compile: 392ms, render: 281ms)
+ GET / 200 in 749ms (compile: 98ms, render: 651ms)
+ GET / 200 in 764ms (compile: 15ms, render: 749ms)
+ GET / 200 in 256ms (compile: 12ms, render: 244ms)
+✓ Compiled in 564ms
+⨯ Error: useTheme must be used within ThemeProvider
+    at useTheme (src/components/theme/theme-provider.tsx:70:19)
+    at ModeToggle (src/components/portfolio/mode-toggle.tsx:7:39)
+  68 | export function useTheme() {
+  69 |   const ctx = React.useContext(ThemeContext);
+> 70 |   if (!ctx) throw new Error("useTheme must be used within ThemeProvider");
+     |                   ^
+  71 |   return ctx;
+  72 | }
+  73 | {
+  digest: '2578046460'
+}
+ GET /interaction-motion 200 in 1862ms (compile: 773ms, render: 1090ms)
+ GET / 200 in 2.1s (compile: 723ms, render: 1334ms)
+ GET / 200 in 2.4s (compile: 732ms, render: 1712ms)
+✓ Compiled in 422ms
+ GET / 200 in 910ms (compile: 483ms, render: 427ms)
+ GET / 200 in 3.0s (compile: 621ms, render: 2.4s)
+ GET / 200 in 3.0s (compile: 1529ms, render: 1486ms)
+ GET /interaction-motion 500 in 3.4s (compile: 309ms, render: 3.1s)
+ GET / 200 in 1017ms (compile: 190ms, render: 827ms)
+ GET / 200 in 1476ms (compile: 979ms, render: 497ms)
+✓ Compiled in 0ms
+ GET / 200 in 1591ms (compile: 1053ms, render: 538ms)
+ GET / 200 in 345ms (compile: 60ms, render: 285ms)
+ GET / 200 in 116ms (compile: 62ms, render: 55ms)
+ GET / 200 in 1794ms (compile: 395ms, render: 1399ms)
+ GET / 200 in 1698ms (compile: 674ms, render: 1025ms)
+ GET / 200 in 982ms (compile: 16ms, render: 966ms)
+ GET / 200 in 135ms (compile: 16ms, render: 119ms)
+ GET / 200 in 257ms (compile: 23ms, render: 234ms)
+⚠ Fast Refresh had to perform a full reload when ./src/components/theme/theme-provider.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+⚠ Fast Refresh had to perform a full reload when ./src/components/theme/theme-provider.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+⚠ Fast Refresh had to perform a full reload when ./src/components/theme/theme-provider.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+✓ Compiled in 116ms
+ GET / 200 in 2.2s (compile: 653ms, render: 1503ms)
+ GET / 200 in 1364ms (compile: 18ms, render: 1346ms)
+ GET / 200 in 1183ms (compile: 19ms, render: 1164ms)
+ GET / 200 in 1146ms (compile: 358ms, render: 788ms)
+ GET / 200 in 1155ms (compile: 664ms, render: 491ms)
+ GET / 200 in 451ms (compile: 3ms, render: 448ms)
+ GET / 200 in 452ms (compile: 16ms, render: 436ms)
+✓ Compiled in 77ms
+ GET / 200 in 457ms (compile: 141ms, render: 316ms)
+ GET / 200 in 236ms (compile: 3ms, render: 233ms)
+ GET / 200 in 154ms (compile: 1848µs, render: 153ms)
+✓ Compiled in 78ms
+ GET / 200 in 321ms (compile: 157ms, render: 164ms)
+ GET / 200 in 151ms (compile: 8ms, render: 143ms)
+ GET / 200 in 288ms (compile: 5ms, render: 283ms)
+✓ Compiled in 35ms
+ GET / 200 in 490ms (compile: 338ms, render: 152ms)
+ GET / 200 in 493ms (compile: 209ms, render: 283ms)
+ GET / 200 in 117ms (compile: 5ms, render: 113ms)
+✓ Compiled in 73ms
+✓ Compiled in 292ms
+⚠ Fast Refresh had to perform a full reload when ./node_modules/next/dist/client/image-component.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+⚠ Fast Refresh had to perform a full reload when ./node_modules/next/dist/client/image-component.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+⚠ Fast Refresh had to perform a full reload when ./node_modules/next/dist/client/image-component.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ GET / 200 in 979ms (compile: 544ms, render: 435ms)
+ GET / 200 in 1022ms (compile: 434ms, render: 588ms)
+ GET / 200 in 2.1s (compile: 50ms, render: 2.1s)
+ GET / 200 in 372ms (compile: 34ms, render: 338ms)
+ GET / 200 in 3.0s (compile: 3ms, render: 3.0s)
+ GET / 200 in 2.7s (compile: 9ms, render: 2.7s)
+ GET / 200 in 2.7s (compile: 22ms, render: 2.7s)
+✓ Compiled in 892ms
+✓ Compiled in 297ms
+ GET / 200 in 301ms (compile: 8ms, render: 293ms)
+ GET / 200 in 1008ms (compile: 403ms, render: 605ms)
+ GET / 200 in 885ms (compile: 4ms, render: 881ms)
+ GET /interaction-motion 200 in 815ms (compile: 706ms, render: 109ms)
+ GET /interaction-motion 200 in 294ms (compile: 34ms, render: 260ms)
+ GET / 200 in 55ms (compile: 6ms, render: 48ms)
+ GET /interaction-motion 200 in 177ms (compile: 40ms, render: 137ms)
+ GET / 200 in 60ms (compile: 15ms, render: 45ms)
+ GET /interaction-motion 200 in 25ms (compile: 6ms, render: 19ms)
+ GET / 200 in 501ms (compile: 236ms, render: 265ms)
+ GET / 200 in 863ms (compile: 646ms, render: 217ms)
+ GET / 200 in 155ms (compile: 3ms, render: 152ms)
+ GET / 200 in 309ms (compile: 1885µs, render: 307ms)
+ GET /interaction-motion 200 in 57ms (compile: 11ms, render: 45ms)
+ GET / 200 in 64ms (compile: 23ms, render: 41ms)
+ GET / 200 in 164ms (compile: 2ms, render: 162ms)
+ GET / 200 in 158ms (compile: 20ms, render: 138ms)
+ GET /interaction-motion 200 in 70ms (compile: 11ms, render: 59ms)
+✓ Compiled in 260ms
+ GET /interaction-motion 200 in 1647ms (compile: 17ms, render: 1630ms)
+ GET / 200 in 1621ms (compile: 1299ms, render: 322ms)
+ GET / 200 in 199ms (compile: 36ms, render: 164ms)
+✓ Compiled in 276ms
+ GET /interaction-motion 200 in 3.8s (compile: 18ms, render: 3.8s)
+ GET / 200 in 501ms (compile: 21ms, render: 480ms)
+ GET / 200 in 3.4s (compile: 2.6s, render: 783ms)
+ GET / 200 in 624ms (compile: 377ms, render: 247ms)
+✓ Compiled in 61ms
+ GET / 200 in 302ms (compile: 176ms, render: 125ms)
+ GET / 200 in 99ms (compile: 1260µs, render: 98ms)
+ GET / 200 in 91ms (compile: 1281µs, render: 90ms)
+✓ Compiled in 134ms
+ GET / 200 in 1264ms (compile: 1003ms, render: 260ms)
+ GET / 200 in 1258ms (compile: 1175ms, render: 83ms)
+ GET / 200 in 58ms (compile: 1876µs, render: 56ms)
+⨯ ReferenceError: Card is not defined
+    at Home (src/app/page.tsx:89:16)
+  87 |               className="block transition-opacity hover:opacity-90"
+  88 |             >
+> 89 |               <Card className="w-full min-w-[248px]">
+     |                ^
+  90 |                 <CardHeader>
+  91 |                   <div className="flex flex-col gap-[6px]">
+  92 |                     <CardTitle>Property Portfolio</CardTitle> {
+  digest: '2812563240'
+}
+⨯ ReferenceError: Card is not defined
+    at Home (src/app/page.tsx:89:16)
+  87 |               className="block transition-opacity hover:opacity-90"
+  88 |             >
+> 89 |               <Card className="w-full min-w-[248px]">
+     |                ^
+  90 |                 <CardHeader>
+  91 |                   <div className="flex flex-col gap-[6px]">
+  92 |                     <CardTitle>Property Portfolio</CardTitle> {
+  digest: '2812563240'
+}
+⨯ ReferenceError: Card is not defined
+    at Home (src/app/page.tsx:89:16)
+  87 |               className="block transition-opacity hover:opacity-90"
+  88 |             >
+> 89 |               <Card className="w-full min-w-[248px]">
+     |                ^
+  90 |                 <CardHeader>
+  91 |                   <div className="flex flex-col gap-[6px]">
+  92 |                     <CardTitle>Property Portfolio</CardTitle> {
+  digest: '2812563240'
+}
+ GET / 200 in 840ms (compile: 681ms, render: 160ms)
+ GET / 200 in 829ms (compile: 425ms, render: 404ms)
+ GET / 200 in 103ms (compile: 4ms, render: 99ms)
+⨯ ReferenceError: Card is not defined
+    at Home (src/app/page.tsx:97:16)
+   95 |               className="block transition-opacity hover:opacity-90"
+   96 |             >
+>  97 |               <Card className="w-full min-w-[248px]">
+      |                ^
+   98 |                 <CardHeader>
+   99 |                   <div className="flex flex-col gap-[6px]">
+  100 |                     <CardTitle>Bayut Token System</CardTitle> {
+  digest: '1185954498'
+}
+⨯ ReferenceError: Card is not defined
+    at Home (src/app/page.tsx:97:16)
+   95 |               className="block transition-opacity hover:opacity-90"
+   96 |             >
+>  97 |               <Card className="w-full min-w-[248px]">
+      |                ^
+   98 |                 <CardHeader>
+   99 |                   <div className="flex flex-col gap-[6px]">
+  100 |                     <CardTitle>Bayut Token System</CardTitle> {
+  digest: '1185954498'
+}
+⨯ ReferenceError: Card is not defined
+    at Home (src/app/page.tsx:97:16)
+   95 |               className="block transition-opacity hover:opacity-90"
+   96 |             >
+>  97 |               <Card className="w-full min-w-[248px]">
+      |                ^
+   98 |                 <CardHeader>
+   99 |                   <div className="flex flex-col gap-[6px]">
+  100 |                     <CardTitle>Bayut Token System</CardTitle> {
+  digest: '1185954498'
+}
+ GET / 500 in 2.7s (compile: 221ms, render: 2.4s)
+ GET / 500 in 1753ms (compile: 14ms, render: 1738ms)
+ GET / 500 in 2.4s (compile: 78ms, render: 2.3s)
+⨯ ReferenceError: Card is not defined
+    at Home (src/app/page.tsx:97:16)
+   95 |               className="block transition-opacity hover:opacity-90"
+   96 |             >
+>  97 |               <Card className="w-full min-w-[248px]">
+      |                ^
+   98 |                 <CardHeader>
+   99 |                   <div className="flex flex-col gap-[6px]">
+  100 |                     <CardTitle>Bayut Token System</CardTitle> {
+  digest: '1185954498'
+}
+⨯ ReferenceError: Card is not defined
+    at Home (src/app/page.tsx:97:16)
+   95 |               className="block transition-opacity hover:opacity-90"
+   96 |             >
+>  97 |               <Card className="w-full min-w-[248px]">
+      |                ^
+   98 |                 <CardHeader>
+   99 |                   <div className="flex flex-col gap-[6px]">
+  100 |                     <CardTitle>Bayut Token System</CardTitle> {
+  digest: '1185954498'
+}
+⨯ ReferenceError: Card is not defined
+    at Home (src/app/page.tsx:97:16)
+   95 |               className="block transition-opacity hover:opacity-90"
+   96 |             >
+>  97 |               <Card className="w-full min-w-[248px]">
+      |                ^
+   98 |                 <CardHeader>
+   99 |                   <div className="flex flex-col gap-[6px]">
+  100 |                     <CardTitle>Bayut Token System</CardTitle> {
+  digest: '1185954498'
+}
+ GET / 500 in 3.0s (compile: 772ms, render: 2.2s)
+ GET / 500 in 1658ms (compile: 31ms, render: 1626ms)
+ GET / 500 in 1607ms (compile: 73ms, render: 1534ms)
+⨯ ./src/app/page.tsx:97:22
+Parsing ecmascript source code failed
+[0m [90m  95 |[39m               customContent[33m=[39m{
+ [90m  96 |[39m                 {[90m/* Token preview layout copied from updated Figma (32:7249/32:7253) */[39m}
+[31m[1m>[22m[39m[90m  97 |[39m                 [33m<[39m[33mdiv[39m className[33m=[39m[32m"relative aspect-[3/2] w-full overflow-hidden bg-[color:var(--background-primary)] pointer-events-none select-none"[39m[33m>[39m
+ [90m     |[39m                      [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m  98 |[39m                   {[90m/* Center the “main frame” like an object-contain image */[39m}
+ [90m  99 |[39m                   [33m<[39m[33mdiv[39m className[33m=[39m[32m"absolute inset-0 flex items-center justify-center"[39m[33m>[39m
+ [90m 100 |[39m                     [33m<[39m[33mdiv[39m className[33m=[39m[32m"relative h-[121.333px] w-[180.96px]"[39m[33m>[39m[0m
+
+Expected '</', got 'className'
+
+
+ GET / 500 in 2.3s (compile: 1777ms, render: 483ms)
+✓ Compiled in 37ms
+ GET / 200 in 2.0s (compile: 211ms, render: 1790ms)
+ GET / 200 in 1420ms (compile: 11ms, render: 1410ms)
+ GET / 200 in 949ms (compile: 9ms, render: 940ms)
+ GET /interaction-motion 200 in 124ms (compile: 14ms, render: 111ms)
+ GET /interaction-motion 200 in 103ms (compile: 4ms, render: 99ms)
+ GET / 200 in 36ms (compile: 6ms, render: 30ms)
+⨯ ./src/app/page.tsx:7:1
+Module not found: Can't resolve '@/components/portfolio/work-card'
+[0m [90m  5 |[39m [36mimport[39m { [33mModeToggle[39m } [36mfrom[39m [32m"@/components/portfolio/mode-toggle"[39m[33m;[39m
+ [90m  6 |[39m [36mimport[39m { [33mExperimentCard[39m } [36mfrom[39m [32m"@/components/portfolio/experiment-card"[39m[33m;[39m
+[31m[1m>[22m[39m[90m  7 |[39m [36mimport[39m { [33mWorkCard[39m } [36mfrom[39m [32m"@/components/portfolio/work-card"[39m[33m;[39m
+ [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m  8 |[39m
+ [90m  9 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 10 |[39m   [36mreturn[39m ([0m
+
+Import map: aliased to relative './src/components/portfolio/work-card' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/page.tsx:7:1
+Module not found: Can't resolve '@/components/portfolio/work-card'
+[0m [90m  5 |[39m [36mimport[39m { [33mModeToggle[39m } [36mfrom[39m [32m"@/components/portfolio/mode-toggle"[39m[33m;[39m
+ [90m  6 |[39m [36mimport[39m { [33mExperimentCard[39m } [36mfrom[39m [32m"@/components/portfolio/experiment-card"[39m[33m;[39m
+[31m[1m>[22m[39m[90m  7 |[39m [36mimport[39m { [33mWorkCard[39m } [36mfrom[39m [32m"@/components/portfolio/work-card"[39m[33m;[39m
+ [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m  8 |[39m
+ [90m  9 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 10 |[39m   [36mreturn[39m ([0m
+
+Import map: aliased to relative './src/components/portfolio/work-card' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/page.tsx:7:1
+Module not found: Can't resolve '@/components/portfolio/work-card'
+[0m [90m  5 |[39m [36mimport[39m { [33mModeToggle[39m } [36mfrom[39m [32m"@/components/portfolio/mode-toggle"[39m[33m;[39m
+ [90m  6 |[39m [36mimport[39m { [33mExperimentCard[39m } [36mfrom[39m [32m"@/components/portfolio/experiment-card"[39m[33m;[39m
+[31m[1m>[22m[39m[90m  7 |[39m [36mimport[39m { [33mWorkCard[39m } [36mfrom[39m [32m"@/components/portfolio/work-card"[39m[33m;[39m
+ [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m  8 |[39m
+ [90m  9 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 10 |[39m   [36mreturn[39m ([0m
+
+Import map: aliased to relative './src/components/portfolio/work-card' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/page.tsx:7:1
+Module not found: Can't resolve '@/components/portfolio/work-card'
+[0m [90m  5 |[39m [36mimport[39m { [33mModeToggle[39m } [36mfrom[39m [32m"@/components/portfolio/mode-toggle"[39m[33m;[39m
+ [90m  6 |[39m [36mimport[39m { [33mExperimentCard[39m } [36mfrom[39m [32m"@/components/portfolio/experiment-card"[39m[33m;[39m
+[31m[1m>[22m[39m[90m  7 |[39m [36mimport[39m { [33mWorkCard[39m } [36mfrom[39m [32m"@/components/portfolio/work-card"[39m[33m;[39m
+ [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m  8 |[39m
+ [90m  9 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 10 |[39m   [36mreturn[39m ([0m
+
+Import map: aliased to relative './src/components/portfolio/work-card' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/page.tsx:7:1
+Module not found: Can't resolve '@/components/portfolio/work-card'
+[0m [90m  5 |[39m [36mimport[39m { [33mModeToggle[39m } [36mfrom[39m [32m"@/components/portfolio/mode-toggle"[39m[33m;[39m
+ [90m  6 |[39m [36mimport[39m { [33mExperimentCard[39m } [36mfrom[39m [32m"@/components/portfolio/experiment-card"[39m[33m;[39m
+[31m[1m>[22m[39m[90m  7 |[39m [36mimport[39m { [33mWorkCard[39m } [36mfrom[39m [32m"@/components/portfolio/work-card"[39m[33m;[39m
+ [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m  8 |[39m
+ [90m  9 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 10 |[39m   [36mreturn[39m ([0m
+
+Import map: aliased to relative './src/components/portfolio/work-card' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/page.tsx:7:1
+Module not found: Can't resolve '@/components/portfolio/work-card'
+[0m [90m  5 |[39m [36mimport[39m { [33mModeToggle[39m } [36mfrom[39m [32m"@/components/portfolio/mode-toggle"[39m[33m;[39m
+ [90m  6 |[39m [36mimport[39m { [33mExperimentCard[39m } [36mfrom[39m [32m"@/components/portfolio/experiment-card"[39m[33m;[39m
+[31m[1m>[22m[39m[90m  7 |[39m [36mimport[39m { [33mWorkCard[39m } [36mfrom[39m [32m"@/components/portfolio/work-card"[39m[33m;[39m
+ [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m  8 |[39m
+ [90m  9 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 10 |[39m   [36mreturn[39m ([0m
+
+Import map: aliased to relative './src/components/portfolio/work-card' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/page.tsx:7:1
+Module not found: Can't resolve '@/components/portfolio/work-card'
+[0m [90m  5 |[39m [36mimport[39m { [33mModeToggle[39m } [36mfrom[39m [32m"@/components/portfolio/mode-toggle"[39m[33m;[39m
+ [90m  6 |[39m [36mimport[39m { [33mExperimentCard[39m } [36mfrom[39m [32m"@/components/portfolio/experiment-card"[39m[33m;[39m
+[31m[1m>[22m[39m[90m  7 |[39m [36mimport[39m { [33mWorkCard[39m } [36mfrom[39m [32m"@/components/portfolio/work-card"[39m[33m;[39m
+ [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m  8 |[39m
+ [90m  9 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 10 |[39m   [36mreturn[39m ([0m
+
+Import map: aliased to relative './src/components/portfolio/work-card' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/page.tsx:7:1
+Module not found: Can't resolve '@/components/portfolio/work-card'
+[0m [90m  5 |[39m [36mimport[39m { [33mModeToggle[39m } [36mfrom[39m [32m"@/components/portfolio/mode-toggle"[39m[33m;[39m
+ [90m  6 |[39m [36mimport[39m { [33mExperimentCard[39m } [36mfrom[39m [32m"@/components/portfolio/experiment-card"[39m[33m;[39m
+[31m[1m>[22m[39m[90m  7 |[39m [36mimport[39m { [33mWorkCard[39m } [36mfrom[39m [32m"@/components/portfolio/work-card"[39m[33m;[39m
+ [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m  8 |[39m
+ [90m  9 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 10 |[39m   [36mreturn[39m ([0m
+
+Import map: aliased to relative './src/components/portfolio/work-card' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/page.tsx:7:1
+Module not found: Can't resolve '@/components/portfolio/work-card'
+[0m [90m  5 |[39m [36mimport[39m { [33mModeToggle[39m } [36mfrom[39m [32m"@/components/portfolio/mode-toggle"[39m[33m;[39m
+ [90m  6 |[39m [36mimport[39m { [33mExperimentCard[39m } [36mfrom[39m [32m"@/components/portfolio/experiment-card"[39m[33m;[39m
+[31m[1m>[22m[39m[90m  7 |[39m [36mimport[39m { [33mWorkCard[39m } [36mfrom[39m [32m"@/components/portfolio/work-card"[39m[33m;[39m
+ [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m  8 |[39m
+ [90m  9 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 10 |[39m   [36mreturn[39m ([0m
+
+Import map: aliased to relative './src/components/portfolio/work-card' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/page.tsx:7:1
+Module not found: Can't resolve '@/components/portfolio/work-card'
+[0m [90m  5 |[39m [36mimport[39m { [33mModeToggle[39m } [36mfrom[39m [32m"@/components/portfolio/mode-toggle"[39m[33m;[39m
+ [90m  6 |[39m [36mimport[39m { [33mExperimentCard[39m } [36mfrom[39m [32m"@/components/portfolio/experiment-card"[39m[33m;[39m
+[31m[1m>[22m[39m[90m  7 |[39m [36mimport[39m { [33mWorkCard[39m } [36mfrom[39m [32m"@/components/portfolio/work-card"[39m[33m;[39m
+ [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m  8 |[39m
+ [90m  9 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 10 |[39m   [36mreturn[39m ([0m
+
+Import map: aliased to relative './src/components/portfolio/work-card' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/page.tsx:7:1
+Module not found: Can't resolve '@/components/portfolio/work-card'
+[0m [90m  5 |[39m [36mimport[39m { [33mModeToggle[39m } [36mfrom[39m [32m"@/components/portfolio/mode-toggle"[39m[33m;[39m
+ [90m  6 |[39m [36mimport[39m { [33mExperimentCard[39m } [36mfrom[39m [32m"@/components/portfolio/experiment-card"[39m[33m;[39m
+[31m[1m>[22m[39m[90m  7 |[39m [36mimport[39m { [33mWorkCard[39m } [36mfrom[39m [32m"@/components/portfolio/work-card"[39m[33m;[39m
+ [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m  8 |[39m
+ [90m  9 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 10 |[39m   [36mreturn[39m ([0m
+
+Import map: aliased to relative './src/components/portfolio/work-card' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/page.tsx:7:1
+Module not found: Can't resolve '@/components/portfolio/work-card'
+[0m [90m  5 |[39m [36mimport[39m { [33mModeToggle[39m } [36mfrom[39m [32m"@/components/portfolio/mode-toggle"[39m[33m;[39m
+ [90m  6 |[39m [36mimport[39m { [33mExperimentCard[39m } [36mfrom[39m [32m"@/components/portfolio/experiment-card"[39m[33m;[39m
+[31m[1m>[22m[39m[90m  7 |[39m [36mimport[39m { [33mWorkCard[39m } [36mfrom[39m [32m"@/components/portfolio/work-card"[39m[33m;[39m
+ [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m  8 |[39m
+ [90m  9 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 10 |[39m   [36mreturn[39m ([0m
+
+Import map: aliased to relative './src/components/portfolio/work-card' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/page.tsx:7:1
+Module not found: Can't resolve '@/components/portfolio/work-card'
+[0m [90m  5 |[39m [36mimport[39m { [33mModeToggle[39m } [36mfrom[39m [32m"@/components/portfolio/mode-toggle"[39m[33m;[39m
+ [90m  6 |[39m [36mimport[39m { [33mExperimentCard[39m } [36mfrom[39m [32m"@/components/portfolio/experiment-card"[39m[33m;[39m
+[31m[1m>[22m[39m[90m  7 |[39m [36mimport[39m { [33mWorkCard[39m } [36mfrom[39m [32m"@/components/portfolio/work-card"[39m[33m;[39m
+ [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m  8 |[39m
+ [90m  9 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 10 |[39m   [36mreturn[39m ([0m
+
+Import map: aliased to relative './src/components/portfolio/work-card' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/page.tsx:7:1
+Module not found: Can't resolve '@/components/portfolio/work-card'
+[0m [90m  5 |[39m [36mimport[39m { [33mModeToggle[39m } [36mfrom[39m [32m"@/components/portfolio/mode-toggle"[39m[33m;[39m
+ [90m  6 |[39m [36mimport[39m { [33mExperimentCard[39m } [36mfrom[39m [32m"@/components/portfolio/experiment-card"[39m[33m;[39m
+[31m[1m>[22m[39m[90m  7 |[39m [36mimport[39m { [33mWorkCard[39m } [36mfrom[39m [32m"@/components/portfolio/work-card"[39m[33m;[39m
+ [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m  8 |[39m
+ [90m  9 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 10 |[39m   [36mreturn[39m ([0m
+
+Import map: aliased to relative './src/components/portfolio/work-card' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/page.tsx:7:1
+Module not found: Can't resolve '@/components/portfolio/work-card'
+[0m [90m  5 |[39m [36mimport[39m { [33mModeToggle[39m } [36mfrom[39m [32m"@/components/portfolio/mode-toggle"[39m[33m;[39m
+ [90m  6 |[39m [36mimport[39m { [33mExperimentCard[39m } [36mfrom[39m [32m"@/components/portfolio/experiment-card"[39m[33m;[39m
+[31m[1m>[22m[39m[90m  7 |[39m [36mimport[39m { [33mWorkCard[39m } [36mfrom[39m [32m"@/components/portfolio/work-card"[39m[33m;[39m
+ [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m  8 |[39m
+ [90m  9 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 10 |[39m   [36mreturn[39m ([0m
+
+Import map: aliased to relative './src/components/portfolio/work-card' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/page.tsx:7:1
+Module not found: Can't resolve '@/components/portfolio/work-card'
+[0m [90m  5 |[39m [36mimport[39m { [33mModeToggle[39m } [36mfrom[39m [32m"@/components/portfolio/mode-toggle"[39m[33m;[39m
+ [90m  6 |[39m [36mimport[39m { [33mExperimentCard[39m } [36mfrom[39m [32m"@/components/portfolio/experiment-card"[39m[33m;[39m
+[31m[1m>[22m[39m[90m  7 |[39m [36mimport[39m { [33mWorkCard[39m } [36mfrom[39m [32m"@/components/portfolio/work-card"[39m[33m;[39m
+ [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m  8 |[39m
+ [90m  9 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 10 |[39m   [36mreturn[39m ([0m
+
+Import map: aliased to relative './src/components/portfolio/work-card' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/page.tsx:7:1
+Module not found: Can't resolve '@/components/portfolio/work-card'
+[0m [90m  5 |[39m [36mimport[39m { [33mModeToggle[39m } [36mfrom[39m [32m"@/components/portfolio/mode-toggle"[39m[33m;[39m
+ [90m  6 |[39m [36mimport[39m { [33mExperimentCard[39m } [36mfrom[39m [32m"@/components/portfolio/experiment-card"[39m[33m;[39m
+[31m[1m>[22m[39m[90m  7 |[39m [36mimport[39m { [33mWorkCard[39m } [36mfrom[39m [32m"@/components/portfolio/work-card"[39m[33m;[39m
+ [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m  8 |[39m
+ [90m  9 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 10 |[39m   [36mreturn[39m ([0m
+
+Import map: aliased to relative './src/components/portfolio/work-card' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/page.tsx:7:1
+Module not found: Can't resolve '@/components/portfolio/work-card'
+[0m [90m  5 |[39m [36mimport[39m { [33mModeToggle[39m } [36mfrom[39m [32m"@/components/portfolio/mode-toggle"[39m[33m;[39m
+ [90m  6 |[39m [36mimport[39m { [33mExperimentCard[39m } [36mfrom[39m [32m"@/components/portfolio/experiment-card"[39m[33m;[39m
+[31m[1m>[22m[39m[90m  7 |[39m [36mimport[39m { [33mWorkCard[39m } [36mfrom[39m [32m"@/components/portfolio/work-card"[39m[33m;[39m
+ [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m  8 |[39m
+ [90m  9 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 10 |[39m   [36mreturn[39m ([0m
+
+Import map: aliased to relative './src/components/portfolio/work-card' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/page.tsx:7:1
+Module not found: Can't resolve '@/components/portfolio/work-card'
+[0m [90m  5 |[39m [36mimport[39m { [33mModeToggle[39m } [36mfrom[39m [32m"@/components/portfolio/mode-toggle"[39m[33m;[39m
+ [90m  6 |[39m [36mimport[39m { [33mExperimentCard[39m } [36mfrom[39m [32m"@/components/portfolio/experiment-card"[39m[33m;[39m
+[31m[1m>[22m[39m[90m  7 |[39m [36mimport[39m { [33mWorkCard[39m } [36mfrom[39m [32m"@/components/portfolio/work-card"[39m[33m;[39m
+ [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m  8 |[39m
+ [90m  9 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 10 |[39m   [36mreturn[39m ([0m
+
+Import map: aliased to relative './src/components/portfolio/work-card' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/page.tsx:7:1
+Module not found: Can't resolve '@/components/portfolio/work-card'
+[0m [90m  5 |[39m [36mimport[39m { [33mModeToggle[39m } [36mfrom[39m [32m"@/components/portfolio/mode-toggle"[39m[33m;[39m
+ [90m  6 |[39m [36mimport[39m { [33mExperimentCard[39m } [36mfrom[39m [32m"@/components/portfolio/experiment-card"[39m[33m;[39m
+[31m[1m>[22m[39m[90m  7 |[39m [36mimport[39m { [33mWorkCard[39m } [36mfrom[39m [32m"@/components/portfolio/work-card"[39m[33m;[39m
+ [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m  8 |[39m
+ [90m  9 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 10 |[39m   [36mreturn[39m ([0m
+
+Import map: aliased to relative './src/components/portfolio/work-card' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/page.tsx:7:1
+Module not found: Can't resolve '@/components/portfolio/work-card'
+[0m [90m  5 |[39m [36mimport[39m { [33mModeToggle[39m } [36mfrom[39m [32m"@/components/portfolio/mode-toggle"[39m[33m;[39m
+ [90m  6 |[39m [36mimport[39m { [33mExperimentCard[39m } [36mfrom[39m [32m"@/components/portfolio/experiment-card"[39m[33m;[39m
+[31m[1m>[22m[39m[90m  7 |[39m [36mimport[39m { [33mWorkCard[39m } [36mfrom[39m [32m"@/components/portfolio/work-card"[39m[33m;[39m
+ [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m  8 |[39m
+ [90m  9 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 10 |[39m   [36mreturn[39m ([0m
+
+Import map: aliased to relative './src/components/portfolio/work-card' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/page.tsx:7:1
+Module not found: Can't resolve '@/components/portfolio/work-card'
+[0m [90m  5 |[39m [36mimport[39m { [33mModeToggle[39m } [36mfrom[39m [32m"@/components/portfolio/mode-toggle"[39m[33m;[39m
+ [90m  6 |[39m [36mimport[39m { [33mExperimentCard[39m } [36mfrom[39m [32m"@/components/portfolio/experiment-card"[39m[33m;[39m
+[31m[1m>[22m[39m[90m  7 |[39m [36mimport[39m { [33mWorkCard[39m } [36mfrom[39m [32m"@/components/portfolio/work-card"[39m[33m;[39m
+ [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m  8 |[39m
+ [90m  9 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 10 |[39m   [36mreturn[39m ([0m
+
+Import map: aliased to relative './src/components/portfolio/work-card' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/page.tsx:7:1
+Module not found: Can't resolve '@/components/portfolio/work-card'
+[0m [90m  5 |[39m [36mimport[39m { [33mModeToggle[39m } [36mfrom[39m [32m"@/components/portfolio/mode-toggle"[39m[33m;[39m
+ [90m  6 |[39m [36mimport[39m { [33mExperimentCard[39m } [36mfrom[39m [32m"@/components/portfolio/experiment-card"[39m[33m;[39m
+[31m[1m>[22m[39m[90m  7 |[39m [36mimport[39m { [33mWorkCard[39m } [36mfrom[39m [32m"@/components/portfolio/work-card"[39m[33m;[39m
+ [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m  8 |[39m
+ [90m  9 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 10 |[39m   [36mreturn[39m ([0m
+
+Import map: aliased to relative './src/components/portfolio/work-card' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/page.tsx:7:1
+Module not found: Can't resolve '@/components/portfolio/work-card'
+[0m [90m  5 |[39m [36mimport[39m { [33mModeToggle[39m } [36mfrom[39m [32m"@/components/portfolio/mode-toggle"[39m[33m;[39m
+ [90m  6 |[39m [36mimport[39m { [33mExperimentCard[39m } [36mfrom[39m [32m"@/components/portfolio/experiment-card"[39m[33m;[39m
+[31m[1m>[22m[39m[90m  7 |[39m [36mimport[39m { [33mWorkCard[39m } [36mfrom[39m [32m"@/components/portfolio/work-card"[39m[33m;[39m
+ [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m  8 |[39m
+ [90m  9 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 10 |[39m   [36mreturn[39m ([0m
+
+Import map: aliased to relative './src/components/portfolio/work-card' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/page.tsx:7:1
+Module not found: Can't resolve '@/components/portfolio/work-card'
+[0m [90m  5 |[39m [36mimport[39m { [33mModeToggle[39m } [36mfrom[39m [32m"@/components/portfolio/mode-toggle"[39m[33m;[39m
+ [90m  6 |[39m [36mimport[39m { [33mExperimentCard[39m } [36mfrom[39m [32m"@/components/portfolio/experiment-card"[39m[33m;[39m
+[31m[1m>[22m[39m[90m  7 |[39m [36mimport[39m { [33mWorkCard[39m } [36mfrom[39m [32m"@/components/portfolio/work-card"[39m[33m;[39m
+ [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m  8 |[39m
+ [90m  9 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 10 |[39m   [36mreturn[39m ([0m
+
+Import map: aliased to relative './src/components/portfolio/work-card' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/page.tsx:7:1
+Module not found: Can't resolve '@/components/portfolio/work-card'
+[0m [90m  5 |[39m [36mimport[39m { [33mModeToggle[39m } [36mfrom[39m [32m"@/components/portfolio/mode-toggle"[39m[33m;[39m
+ [90m  6 |[39m [36mimport[39m { [33mExperimentCard[39m } [36mfrom[39m [32m"@/components/portfolio/experiment-card"[39m[33m;[39m
+[31m[1m>[22m[39m[90m  7 |[39m [36mimport[39m { [33mWorkCard[39m } [36mfrom[39m [32m"@/components/portfolio/work-card"[39m[33m;[39m
+ [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m  8 |[39m
+ [90m  9 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 10 |[39m   [36mreturn[39m ([0m
+
+Import map: aliased to relative './src/components/portfolio/work-card' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/page.tsx:7:1
+Module not found: Can't resolve '@/components/portfolio/work-card'
+[0m [90m  5 |[39m [36mimport[39m { [33mModeToggle[39m } [36mfrom[39m [32m"@/components/portfolio/mode-toggle"[39m[33m;[39m
+ [90m  6 |[39m [36mimport[39m { [33mExperimentCard[39m } [36mfrom[39m [32m"@/components/portfolio/experiment-card"[39m[33m;[39m
+[31m[1m>[22m[39m[90m  7 |[39m [36mimport[39m { [33mWorkCard[39m } [36mfrom[39m [32m"@/components/portfolio/work-card"[39m[33m;[39m
+ [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m  8 |[39m
+ [90m  9 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 10 |[39m   [36mreturn[39m ([0m
+
+Import map: aliased to relative './src/components/portfolio/work-card' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/page.tsx:7:1
+Module not found: Can't resolve '@/components/portfolio/work-card'
+[0m [90m  5 |[39m [36mimport[39m { [33mModeToggle[39m } [36mfrom[39m [32m"@/components/portfolio/mode-toggle"[39m[33m;[39m
+ [90m  6 |[39m [36mimport[39m { [33mExperimentCard[39m } [36mfrom[39m [32m"@/components/portfolio/experiment-card"[39m[33m;[39m
+[31m[1m>[22m[39m[90m  7 |[39m [36mimport[39m { [33mWorkCard[39m } [36mfrom[39m [32m"@/components/portfolio/work-card"[39m[33m;[39m
+ [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m  8 |[39m
+ [90m  9 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 10 |[39m   [36mreturn[39m ([0m
+
+Import map: aliased to relative './src/components/portfolio/work-card' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/page.tsx:7:1
+Module not found: Can't resolve '@/components/portfolio/work-card'
+[0m [90m  5 |[39m [36mimport[39m { [33mModeToggle[39m } [36mfrom[39m [32m"@/components/portfolio/mode-toggle"[39m[33m;[39m
+ [90m  6 |[39m [36mimport[39m { [33mExperimentCard[39m } [36mfrom[39m [32m"@/components/portfolio/experiment-card"[39m[33m;[39m
+[31m[1m>[22m[39m[90m  7 |[39m [36mimport[39m { [33mWorkCard[39m } [36mfrom[39m [32m"@/components/portfolio/work-card"[39m[33m;[39m
+ [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m  8 |[39m
+ [90m  9 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 10 |[39m   [36mreturn[39m ([0m
+
+Import map: aliased to relative './src/components/portfolio/work-card' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/page.tsx:7:1
+Module not found: Can't resolve '@/components/portfolio/work-card'
+[0m [90m  5 |[39m [36mimport[39m { [33mModeToggle[39m } [36mfrom[39m [32m"@/components/portfolio/mode-toggle"[39m[33m;[39m
+ [90m  6 |[39m [36mimport[39m { [33mExperimentCard[39m } [36mfrom[39m [32m"@/components/portfolio/experiment-card"[39m[33m;[39m
+[31m[1m>[22m[39m[90m  7 |[39m [36mimport[39m { [33mWorkCard[39m } [36mfrom[39m [32m"@/components/portfolio/work-card"[39m[33m;[39m
+ [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m  8 |[39m
+ [90m  9 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 10 |[39m   [36mreturn[39m ([0m
+
+Import map: aliased to relative './src/components/portfolio/work-card' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/page.tsx:7:1
+Module not found: Can't resolve '@/components/portfolio/work-card'
+[0m [90m  5 |[39m [36mimport[39m { [33mModeToggle[39m } [36mfrom[39m [32m"@/components/portfolio/mode-toggle"[39m[33m;[39m
+ [90m  6 |[39m [36mimport[39m { [33mExperimentCard[39m } [36mfrom[39m [32m"@/components/portfolio/experiment-card"[39m[33m;[39m
+[31m[1m>[22m[39m[90m  7 |[39m [36mimport[39m { [33mWorkCard[39m } [36mfrom[39m [32m"@/components/portfolio/work-card"[39m[33m;[39m
+ [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m  8 |[39m
+ [90m  9 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 10 |[39m   [36mreturn[39m ([0m
+
+Import map: aliased to relative './src/components/portfolio/work-card' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/page.tsx:7:1
+Module not found: Can't resolve '@/components/portfolio/work-card'
+[0m [90m  5 |[39m [36mimport[39m { [33mModeToggle[39m } [36mfrom[39m [32m"@/components/portfolio/mode-toggle"[39m[33m;[39m
+ [90m  6 |[39m [36mimport[39m { [33mExperimentCard[39m } [36mfrom[39m [32m"@/components/portfolio/experiment-card"[39m[33m;[39m
+[31m[1m>[22m[39m[90m  7 |[39m [36mimport[39m { [33mWorkCard[39m } [36mfrom[39m [32m"@/components/portfolio/work-card"[39m[33m;[39m
+ [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m  8 |[39m
+ [90m  9 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 10 |[39m   [36mreturn[39m ([0m
+
+Import map: aliased to relative './src/components/portfolio/work-card' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/page.tsx:7:1
+Module not found: Can't resolve '@/components/portfolio/work-card'
+[0m [90m  5 |[39m [36mimport[39m { [33mModeToggle[39m } [36mfrom[39m [32m"@/components/portfolio/mode-toggle"[39m[33m;[39m
+ [90m  6 |[39m [36mimport[39m { [33mExperimentCard[39m } [36mfrom[39m [32m"@/components/portfolio/experiment-card"[39m[33m;[39m
+[31m[1m>[22m[39m[90m  7 |[39m [36mimport[39m { [33mWorkCard[39m } [36mfrom[39m [32m"@/components/portfolio/work-card"[39m[33m;[39m
+ [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m  8 |[39m
+ [90m  9 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 10 |[39m   [36mreturn[39m ([0m
+
+Import map: aliased to relative './src/components/portfolio/work-card' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/page.tsx:7:1
+Module not found: Can't resolve '@/components/portfolio/work-card'
+[0m [90m  5 |[39m [36mimport[39m { [33mModeToggle[39m } [36mfrom[39m [32m"@/components/portfolio/mode-toggle"[39m[33m;[39m
+ [90m  6 |[39m [36mimport[39m { [33mExperimentCard[39m } [36mfrom[39m [32m"@/components/portfolio/experiment-card"[39m[33m;[39m
+[31m[1m>[22m[39m[90m  7 |[39m [36mimport[39m { [33mWorkCard[39m } [36mfrom[39m [32m"@/components/portfolio/work-card"[39m[33m;[39m
+ [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m  8 |[39m
+ [90m  9 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 10 |[39m   [36mreturn[39m ([0m
+
+Import map: aliased to relative './src/components/portfolio/work-card' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/page.tsx:7:1
+Module not found: Can't resolve '@/components/portfolio/work-card'
+[0m [90m  5 |[39m [36mimport[39m { [33mModeToggle[39m } [36mfrom[39m [32m"@/components/portfolio/mode-toggle"[39m[33m;[39m
+ [90m  6 |[39m [36mimport[39m { [33mExperimentCard[39m } [36mfrom[39m [32m"@/components/portfolio/experiment-card"[39m[33m;[39m
+[31m[1m>[22m[39m[90m  7 |[39m [36mimport[39m { [33mWorkCard[39m } [36mfrom[39m [32m"@/components/portfolio/work-card"[39m[33m;[39m
+ [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m  8 |[39m
+ [90m  9 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 10 |[39m   [36mreturn[39m ([0m
+
+Import map: aliased to relative './src/components/portfolio/work-card' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/page.tsx:7:1
+Module not found: Can't resolve '@/components/portfolio/work-card'
+[0m [90m  5 |[39m [36mimport[39m { [33mModeToggle[39m } [36mfrom[39m [32m"@/components/portfolio/mode-toggle"[39m[33m;[39m
+ [90m  6 |[39m [36mimport[39m { [33mExperimentCard[39m } [36mfrom[39m [32m"@/components/portfolio/experiment-card"[39m[33m;[39m
+[31m[1m>[22m[39m[90m  7 |[39m [36mimport[39m { [33mWorkCard[39m } [36mfrom[39m [32m"@/components/portfolio/work-card"[39m[33m;[39m
+ [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m  8 |[39m
+ [90m  9 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 10 |[39m   [36mreturn[39m ([0m
+
+Import map: aliased to relative './src/components/portfolio/work-card' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/page.tsx:7:1
+Module not found: Can't resolve '@/components/portfolio/work-card'
+[0m [90m  5 |[39m [36mimport[39m { [33mModeToggle[39m } [36mfrom[39m [32m"@/components/portfolio/mode-toggle"[39m[33m;[39m
+ [90m  6 |[39m [36mimport[39m { [33mExperimentCard[39m } [36mfrom[39m [32m"@/components/portfolio/experiment-card"[39m[33m;[39m
+[31m[1m>[22m[39m[90m  7 |[39m [36mimport[39m { [33mWorkCard[39m } [36mfrom[39m [32m"@/components/portfolio/work-card"[39m[33m;[39m
+ [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m  8 |[39m
+ [90m  9 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 10 |[39m   [36mreturn[39m ([0m
+
+Import map: aliased to relative './src/components/portfolio/work-card' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/page.tsx:7:1
+Module not found: Can't resolve '@/components/portfolio/work-card'
+[0m [90m  5 |[39m [36mimport[39m { [33mModeToggle[39m } [36mfrom[39m [32m"@/components/portfolio/mode-toggle"[39m[33m;[39m
+ [90m  6 |[39m [36mimport[39m { [33mExperimentCard[39m } [36mfrom[39m [32m"@/components/portfolio/experiment-card"[39m[33m;[39m
+[31m[1m>[22m[39m[90m  7 |[39m [36mimport[39m { [33mWorkCard[39m } [36mfrom[39m [32m"@/components/portfolio/work-card"[39m[33m;[39m
+ [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m  8 |[39m
+ [90m  9 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 10 |[39m   [36mreturn[39m ([0m
+
+Import map: aliased to relative './src/components/portfolio/work-card' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/app/page.tsx:7:1
+Module not found: Can't resolve '@/components/portfolio/work-card'
+[0m [90m  5 |[39m [36mimport[39m { [33mModeToggle[39m } [36mfrom[39m [32m"@/components/portfolio/mode-toggle"[39m[33m;[39m
+ [90m  6 |[39m [36mimport[39m { [33mExperimentCard[39m } [36mfrom[39m [32m"@/components/portfolio/experiment-card"[39m[33m;[39m
+[31m[1m>[22m[39m[90m  7 |[39m [36mimport[39m { [33mWorkCard[39m } [36mfrom[39m [32m"@/components/portfolio/work-card"[39m[33m;[39m
+ [90m    |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m  8 |[39m
+ [90m  9 |[39m [36mexport[39m [36mdefault[39m [36mfunction[39m [33mHome[39m() {
+ [90m 10 |[39m   [36mreturn[39m ([0m
+
+Import map: aliased to relative './src/components/portfolio/work-card' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+ GET / 500 in 98ms (compile: 65ms, render: 33ms)
+✓ Compiled in 73ms
+⨯ ReferenceError: WorkCard is not defined
+    at Home (src/app/page.tsx:89:14)
+  87 |           {/* Card-group (Figma 32:7253): always 2-up on desktop, 1-up on small */}
+  88 |           <div className="grid w-full grid-cols-1 items-start gap-6 sm:grid-cols-2">
+> 89 |             <WorkCard
+     |              ^
+  90 |               title="Property Portfolio"
+  91 |               description="Property watchlist to see potential before making a move"
+  92 |               imageSrc="/figma/work-property-portfolio.png" {
+  digest: '1783662696'
+}
+⨯ ReferenceError: WorkCard is not defined
+    at Home (src/app/page.tsx:89:14)
+  87 |           {/* Card-group (Figma 32:7253): always 2-up on desktop, 1-up on small */}
+  88 |           <div className="grid w-full grid-cols-1 items-start gap-6 sm:grid-cols-2">
+> 89 |             <WorkCard
+     |              ^
+  90 |               title="Property Portfolio"
+  91 |               description="Property watchlist to see potential before making a move"
+  92 |               imageSrc="/figma/work-property-portfolio.png" {
+  digest: '1783662696'
+}
+⨯ ReferenceError: WorkCard is not defined
+    at Home (src/app/page.tsx:89:14)
+  87 |           {/* Card-group (Figma 32:7253): always 2-up on desktop, 1-up on small */}
+  88 |           <div className="grid w-full grid-cols-1 items-start gap-6 sm:grid-cols-2">
+> 89 |             <WorkCard
+     |              ^
+  90 |               title="Property Portfolio"
+  91 |               description="Property watchlist to see potential before making a move"
+  92 |               imageSrc="/figma/work-property-portfolio.png" {
+  digest: '1783662696'
+}
+ GET / 200 in 363ms (compile: 60ms, render: 303ms)
+ GET / 200 in 255ms (compile: 75ms, render: 180ms)
+ GET / 500 in 292ms (compile: 7ms, render: 284ms)
+⨯ ReferenceError: WorkCard is not defined
+    at Home (src/app/page.tsx:118:14)
+  116 |             </a>
+  117 |
+> 118 |             <WorkCard
+      |              ^
+  119 |               title="Bayut Token System"
+  120 |               description="Semantic tokens for the Bayut app and design system maintenance"
+  121 |               imageSrc="" {
+  digest: '1010927'
+}
+⨯ ReferenceError: WorkCard is not defined
+    at Home (src/app/page.tsx:118:14)
+  116 |             </a>
+  117 |
+> 118 |             <WorkCard
+      |              ^
+  119 |               title="Bayut Token System"
+  120 |               description="Semantic tokens for the Bayut app and design system maintenance"
+  121 |               imageSrc="" {
+  digest: '1010927'
+}
+⨯ ReferenceError: WorkCard is not defined
+    at Home (src/app/page.tsx:118:14)
+  116 |             </a>
+  117 |
+> 118 |             <WorkCard
+      |              ^
+  119 |               title="Bayut Token System"
+  120 |               description="Semantic tokens for the Bayut app and design system maintenance"
+  121 |               imageSrc="" {
+  digest: '1010927'
+}
+ GET / 500 in 730ms (compile: 163ms, render: 567ms)
+ GET / 500 in 492ms (compile: 16ms, render: 477ms)
+ GET / 500 in 593ms (compile: 25ms, render: 569ms)
+✓ Compiled in 86ms
+⨯ ReferenceError: WorkCard is not defined
+    at Home (src/app/page.tsx:118:14)
+  116 |             </a>
+  117 |
+> 118 |             <WorkCard
+      |              ^
+  119 |               title="Bayut Token System"
+  120 |               description="Semantic tokens for the Bayut app and design system maintenance"
+  121 |               imageSrc="" {
+  digest: '1010927'
+}
+⨯ ReferenceError: WorkCard is not defined
+    at Home (src/app/page.tsx:118:14)
+  116 |             </a>
+  117 |
+> 118 |             <WorkCard
+      |              ^
+  119 |               title="Bayut Token System"
+  120 |               description="Semantic tokens for the Bayut app and design system maintenance"
+  121 |               imageSrc="" {
+  digest: '1010927'
+}
+⨯ ReferenceError: WorkCard is not defined
+    at Home (src/app/page.tsx:118:14)
+  116 |             </a>
+  117 |
+> 118 |             <WorkCard
+      |              ^
+  119 |               title="Bayut Token System"
+  120 |               description="Semantic tokens for the Bayut app and design system maintenance"
+  121 |               imageSrc="" {
+  digest: '1010927'
+}
+ GET / 500 in 1101ms (compile: 242ms, render: 859ms)
+ GET / 500 in 643ms (compile: 11ms, render: 631ms)
+ GET / 500 in 885ms (compile: 10ms, render: 876ms)
+✓ Compiled in 199ms
+ GET / 200 in 8.9s (compile: 1028ms, render: 7.9s)
+ GET / 200 in 7.2s (compile: 196ms, render: 7.0s)
+ GET / 200 in 5.1s (compile: 306ms, render: 4.8s)
+ GET / 200 in 193ms (compile: 19ms, render: 173ms)
+ GET / 200 in 112ms (compile: 17ms, render: 95ms)
+ GET / 200 in 108ms (compile: 18ms, render: 90ms)
+⚠ Fast Refresh had to perform a full reload when ./src/components/theme/theme-provider.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+⚠ Fast Refresh had to perform a full reload when ./src/components/theme/theme-provider.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+⚠ Fast Refresh had to perform a full reload when ./src/components/theme/theme-provider.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+✓ Compiled in 84ms
+ GET / 200 in 1893ms (compile: 681ms, render: 1212ms)
+ GET / 200 in 1040ms (compile: 5ms, render: 1036ms)
+ GET / 200 in 1080ms (compile: 7ms, render: 1072ms)
+ GET / 200 in 633ms (compile: 345ms, render: 288ms)
+ GET / 200 in 661ms (compile: 261ms, render: 401ms)
+ GET / 200 in 238ms (compile: 24ms, render: 214ms)
+ GET / 200 in 240ms (compile: 3ms, render: 237ms)
+ GET / 200 in 194ms (compile: 8ms, render: 186ms)
+ GET / 200 in 151ms (compile: 7ms, render: 145ms)
+ GET /interaction-motion 200 in 150ms (compile: 89ms, render: 61ms)
+✓ Compiled in 64ms
+ GET /interaction-motion 200 in 589ms (compile: 120ms, render: 469ms)
+ GET / 200 in 485ms (compile: 12ms, render: 473ms)
+ GET / 200 in 412ms (compile: 29ms, render: 383ms)
+⨯ ReferenceError: GradientButton is not defined
+    at InteractionMotionPage (src/app/interaction-motion/page.tsx:80:12)
+  78 |           </div>
+  79 |
+> 80 |           <GradientButton variant="rainbow">
+     |            ^
+  81 |             <Sparkles className="h-4 w-4" />
+  82 |             <span>Generate AI Summary</span>
+  83 |           </GradientButton> {
+  digest: '2949415994'
+}
+ GET /interaction-motion 200 in 197ms (compile: 111ms, render: 86ms)
+ GET / 200 in 197ms (compile: 141ms, render: 56ms)
+✓ Compiled in 0ms
+ GET / 200 in 39ms (compile: 1189µs, render: 38ms)
+✓ Compiled in 43ms
+ GET /interaction-motion 200 in 480ms (compile: 61ms, render: 419ms)
+ GET / 200 in 576ms (compile: 8ms, render: 568ms)
+ GET / 200 in 107ms (compile: 9ms, render: 97ms)
+ GET /interaction-motion 200 in 95ms (compile: 43ms, render: 52ms)
+✓ Compiled in 3.6s
+ GET /interaction-motion 200 in 4.2s (compile: 2.8s, render: 1365ms)
+ GET /interaction-motion 200 in 4.2s (compile: 3.9s, render: 366ms)
+ GET / 200 in 4.4s (compile: 3.1s, render: 1329ms)
+✓ Compiled in 307ms
+✓ Compiled in 70ms
+ GET /interaction-motion 200 in 653ms (compile: 215ms, render: 438ms)
+ GET /interaction-motion 200 in 218ms (compile: 6ms, render: 212ms)
+ GET / 200 in 1637ms (compile: 39ms, render: 1598ms)
+ GET /interaction-motion 200 in 838ms (compile: 107ms, render: 731ms)
+ GET /interaction-motion 200 in 838ms (compile: 753ms, render: 84ms)
+ GET / 200 in 904ms (compile: 785ms, render: 118ms)
+ GET / 200 in 99ms (compile: 29ms, render: 70ms)
+✓ Compiled in 201ms
+✓ Compiled in 180ms
+✓ Compiled in 547ms
+ GET /interaction-motion 200 in 1872ms (compile: 1781ms, render: 91ms)
+ GET / 200 in 1879ms (compile: 227ms, render: 1652ms)
+ GET / 200 in 1878ms (compile: 484ms, render: 1394ms)
+✓ Compiled in 42ms
+ GET /interaction-motion 200 in 225ms (compile: 146ms, render: 79ms)
+ GET /figma/animations/animation-1.mp4 404 in 195ms (compile: 114ms, render: 81ms)
+ GET /figma/animations/animation-1.mp4 404 in 40ms (compile: 4ms, render: 35ms)
+ GET / 200 in 107ms (compile: 27ms, render: 80ms)
+✓ Compiled in 75ms
+ GET /interaction-motion 200 in 279ms (compile: 235ms, render: 44ms)
+ GET /figma/animations/animation-1.mp4 404 in 28ms (compile: 6ms, render: 22ms)
+ GET /figma/animations/animation-1.mp4 404 in 185ms (compile: 28ms, render: 157ms)
+ GET / 200 in 79ms (compile: 21ms, render: 58ms)
+ GET /interaction-motion 200 in 29ms (compile: 5ms, render: 24ms)
+ GET /figma/animations/animation-1.mp4 404 in 43ms (compile: 6ms, render: 36ms)
+ GET / 200 in 75ms (compile: 21ms, render: 54ms)
+ GET /interaction-motion 200 in 33ms (compile: 9ms, render: 25ms)
+ GET /figma/animations/animation-1.mp4 404 in 97ms (compile: 17ms, render: 80ms)
+ GET /figma/animations/animation-1.mp4 404 in 76ms (compile: 15ms, render: 61ms)
+✓ Compiled in 15.9s
+✓ Compiled in 1169ms
+✓ Compiled in 273ms
+⚠ Fast Refresh had to perform a full reload due to a runtime error.
+✓ Finished filesystem cache database compaction in 11.0s
+ GET /interaction-motion 200 in 2.9s (compile: 1234ms, render: 1659ms)
+✓ Compiled in 43ms
+✓ Compiled in 81ms
+ GET / 200 in 468ms (compile: 101ms, render: 367ms)
+✓ Compiled in 116ms
+✓ Compiled in 68ms
+✓ Compiled in 62ms
+✓ Compiled in 17ms
+ GET /interaction-motion 200 in 302ms (compile: 257ms, render: 45ms)
+ GET /interaction-motion 200 in 1089ms (compile: 52ms, render: 1038ms)
+ GET / 200 in 109ms (compile: 15ms, render: 94ms)
+✓ Compiled in 68ms
+✓ Compiled in 30ms
+ GET /interaction-motion 200 in 374ms (compile: 327ms, render: 47ms)
+✓ Compiled in 325ms
+✓ Compiled in 186ms
+✓ Compiled in 278ms
+⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ GET /interaction-motion 200 in 1184ms (compile: 131ms, render: 1053ms)
+ GET /interaction-motion 200 in 52ms (compile: 15ms, render: 36ms)
+✓ Compiled in 92ms
+ GET / 200 in 98ms (compile: 22ms, render: 75ms)
+ GET /interaction-motion 200 in 331ms (compile: 300ms, render: 31ms)
+ GET /interaction-motion 200 in 2.3s (compile: 57ms, render: 2.2s)
+ GET / 200 in 231ms (compile: 12ms, render: 220ms)
+ GET /interaction-motion 200 in 32ms (compile: 7ms, render: 25ms)
+✓ Compiled in 200ms
+✓ Compiled in 88ms
+ GET /figma/animations/fluid-button.mp4 404 in 548ms (compile: 339ms, render: 209ms)
+ GET /figma/animations/fluid-button.mp4 404 in 538ms (compile: 27ms, render: 510ms)
+ GET /figma/animations/fluid-button.mp4 404 in 58ms (compile: 14ms, render: 44ms)
+✓ Compiled in 69ms
+✓ Compiled in 79ms
+ GET /figma/animations/fluid-button.mp4 404 in 98ms (compile: 29ms, render: 69ms)
+✓ Compiled in 303ms
+✓ Compiled in 151ms
+ GET / 200 in 562ms (compile: 100ms, render: 463ms)
+ GET / 200 in 83ms (compile: 22ms, render: 61ms)
+ GET /interaction-motion 200 in 387ms (compile: 271ms, render: 115ms)
+ GET / 200 in 34ms (compile: 8ms, render: 26ms)
+✓ Compiled in 186ms
+ GET /interaction-motion 200 in 4.5s (compile: 1368ms, render: 3.1s)
+ GET / 200 in 7.9s (compile: 1732ms, render: 6.2s)
+ GET / 200 in 8.0s (compile: 2.4s, render: 5.6s)
+ GET / 200 in 3.9s (compile: 27ms, render: 3.9s)
+✓ Compiled in 150ms
+ GET /interaction-motion 200 in 96ms (compile: 34ms, render: 63ms)
+ GET / 200 in 395ms (compile: 146ms, render: 249ms)
+ GET / 200 in 407ms (compile: 6ms, render: 400ms)
+ GET / 200 in 410ms (compile: 1948µs, render: 408ms)
+✓ Compiled in 196ms
+✓ Compiled in 43ms
+ GET /interaction-motion 200 in 91ms (compile: 21ms, render: 70ms)
+ GET / 200 in 336ms (compile: 108ms, render: 228ms)
+ GET / 200 in 229ms (compile: 4ms, render: 226ms)
+ GET / 200 in 269ms (compile: 8ms, render: 261ms)
+ GET /interaction-motion 200 in 319ms (compile: 234ms, render: 84ms)
+ GET / 200 in 556ms (compile: 79ms, render: 477ms)
+ GET / 200 in 557ms (compile: 188ms, render: 369ms)
+ GET / 200 in 309ms (compile: 1912µs, render: 307ms)
+✓ Compiled in 120ms
+ GET /interaction-motion 200 in 301ms (compile: 230ms, render: 71ms)
+ GET / 200 in 371ms (compile: 88ms, render: 283ms)
+ GET / 200 in 435ms (compile: 55ms, render: 380ms)
+ GET / 200 in 211ms (compile: 8ms, render: 203ms)
+✓ Compiled in 53ms
+ GET /interaction-motion 200 in 43ms (compile: 3ms, render: 40ms)
+ GET / 200 in 232ms (compile: 101ms, render: 131ms)
+ GET / 200 in 74ms (compile: 1454µs, render: 73ms)
+ GET / 200 in 30ms (compile: 1798µs, render: 28ms)
+✓ Compiled in 46ms
+ GET /interaction-motion 200 in 822ms (compile: 155ms, render: 667ms)
+ GET / 200 in 838ms (compile: 78ms, render: 760ms)
+ GET / 200 in 571ms (compile: 51ms, render: 520ms)
+ GET / 200 in 224ms (compile: 9ms, render: 214ms)
+✓ Compiled in 748ms
+ GET /interaction-motion 200 in 214ms (compile: 5ms, render: 209ms)
+ GET / 200 in 1179ms (compile: 254ms, render: 925ms)
+ GET / 200 in 1173ms (compile: 43ms, render: 1129ms)
+ GET / 200 in 1024ms (compile: 2ms, render: 1021ms)
+ GET /interaction-motion 200 in 269ms (compile: 72ms, render: 196ms)
+ GET / 200 in 87ms (compile: 32ms, render: 54ms)
+✓ Compiled in 286ms
+✓ Compiled in 8ms
+ GET /interaction-motion 200 in 310ms (compile: 37ms, render: 274ms)
+✓ Compiled in 0ms
+ GET / 200 in 2.4s (compile: 1952ms, render: 450ms)
+ GET / 200 in 2.4s (compile: 2.1s, render: 301ms)
+ GET / 200 in 283ms (compile: 3ms, render: 280ms)
+✓ Compiled in 99ms
+✓ Compiled in 46ms
+✓ Compiled in 530ms
+✓ Compiled in 1ms
+ GET / 200 in 915ms (compile: 271ms, render: 645ms)
+ GET / 200 in 608ms (compile: 53ms, render: 555ms)
+ GET /interaction-motion 200 in 644ms (compile: 342ms, render: 302ms)
+ GET / 200 in 280ms (compile: 15ms, render: 265ms)
+✓ Compiled in 52ms
+✓ Compiled in 52ms
+✓ Compiled in 45ms
+✓ Compiled in 33ms
+✓ Compiled in 25ms
+ GET /interaction-motion 200 in 179ms (compile: 130ms, render: 49ms)
+ GET / 200 in 102ms (compile: 81ms, render: 21ms)
+ GET /interaction-motion 200 in 263ms (compile: 30ms, render: 233ms)
+ GET / 200 in 45ms (compile: 5ms, render: 40ms)
+ GET /interaction-motion 200 in 54ms (compile: 15ms, render: 39ms)
+ GET / 200 in 50ms (compile: 9ms, render: 40ms)
+✓ Compiled in 72ms
+ GET /interaction-motion 200 in 103ms (compile: 80ms, render: 24ms)
+ GET / 200 in 350ms (compile: 173ms, render: 176ms)
+ GET / 200 in 943ms (compile: 84ms, render: 859ms)
+ GET / 200 in 104ms (compile: 15ms, render: 89ms)
+ GET / 200 in 54ms (compile: 4ms, render: 50ms)
+ GET / 200 in 177ms (compile: 38ms, render: 139ms)
+✓ Compiled in 85ms
+✓ Compiled in 66ms
+✓ Compiled in 140ms
+ GET /interaction-motion 200 in 448ms (compile: 223ms, render: 224ms)
+ GET / 200 in 174ms (compile: 77ms, render: 97ms)
+ GET /interaction-motion 200 in 50ms (compile: 21ms, render: 29ms)
+ GET / 200 in 31ms (compile: 6ms, render: 25ms)
+ GET /interaction-motion 200 in 39ms (compile: 8ms, render: 31ms)
+ GET /interaction-motion 200 in 67ms (compile: 12ms, render: 55ms)
+ GET / 200 in 67ms (compile: 18ms, render: 49ms)
+ GET /interaction-motion 200 in 69ms (compile: 20ms, render: 49ms)
+ GET / 200 in 2.5s (compile: 1022ms, render: 1504ms)
+✓ Compiled in 479ms
+ GET /interaction-motion 200 in 586ms (compile: 498ms, render: 88ms)
+ GET / 200 in 57ms (compile: 19ms, render: 38ms)
+ GET /interaction-motion 200 in 416ms (compile: 140ms, render: 276ms)
+ GET / 200 in 40ms (compile: 16ms, render: 24ms)
+ GET /interaction-motion 200 in 83ms (compile: 24ms, render: 59ms)
+✓ Compiled in 351ms
+✓ Compiled in 78ms
+ GET /interaction-motion 200 in 1005ms (compile: 344ms, render: 661ms)
+ GET / 200 in 147ms (compile: 83ms, render: 64ms)
+ GET / 200 in 794ms (compile: 260ms, render: 534ms)
+ GET / 200 in 198ms (compile: 63ms, render: 135ms)
+✓ Compiled in 330ms
+⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 1101ms (compile: 587ms, render: 515ms)
+ GET / 200 in 1240ms (compile: 874ms, render: 366ms)
+⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 451ms (compile: 63ms, render: 388ms)
+ GET / 200 in 458ms (compile: 5ms, render: 453ms)
+ GET / 200 in 360ms (compile: 9ms, render: 350ms)
+⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 414ms (compile: 6ms, render: 408ms)
+ GET / 200 in 390ms (compile: 35ms, render: 355ms)
+ GET / 200 in 275ms (compile: 14ms, render: 260ms)
+ GET / 200 in 138ms (compile: 38ms, render: 100ms)
+✓ Compiled in 351ms
+✓ Compiled in 112ms
+✓ Compiled in 118ms
+✓ Compiled in 200ms
+ GET / 200 in 358ms (compile: 120ms, render: 239ms)
+ GET / 200 in 443ms (compile: 192ms, render: 251ms)
+ GET / 200 in 236ms (compile: 4ms, render: 232ms)
+ GET / 200 in 237ms (compile: 24ms, render: 212ms)
+ GET / 200 in 238ms (compile: 36ms, render: 203ms)
+ GET / 200 in 242ms (compile: 4ms, render: 238ms)
+ GET / 200 in 171ms (compile: 9ms, render: 162ms)
+ GET / 200 in 80ms (compile: 8ms, render: 72ms)
+ GET / 200 in 32ms (compile: 4ms, render: 28ms)
+✓ Compiled in 333ms
+✓ Compiled in 131ms
+✓ Compiled in 345ms
+✓ Compiled in 556ms
+ GET / 200 in 951ms (compile: 298ms, render: 652ms)
+ GET / 200 in 131ms (compile: 20ms, render: 111ms)
+ GET / 200 in 539ms (compile: 17ms, render: 522ms)
+ GET / 200 in 169ms (compile: 25ms, render: 145ms)
+✓ Compiled in 419ms
+✓ Compiled in 90ms
+✓ Compiled in 177ms
+ GET / 200 in 10.5s (compile: 3.1s, render: 7.4s)
+ GET / 200 in 11.1s (compile: 2.8s, render: 8.3s)
+ GET / 200 in 7.6s (compile: 49ms, render: 7.5s)
+ GET / 200 in 7.5s (compile: 690ms, render: 6.8s)
+✓ Compiled in 281ms
+✓ Compiled in 98ms
+ GET / 200 in 593ms (compile: 59ms, render: 533ms)
+ GET / 200 in 569ms (compile: 461ms, render: 108ms)
+ GET / 200 in 36ms (compile: 3ms, render: 33ms)
+ GET / 200 in 385ms (compile: 54ms, render: 330ms)
+ GET / 200 in 341ms (compile: 34ms, render: 306ms)
+ GET /interaction-motion 200 in 375ms (compile: 208ms, render: 166ms)
+✓ Compiled in 105ms
+✓ Compiled in 107ms
+✓ Compiled in 57ms
+✓ Compiled in 63ms
+ GET / 200 in 516ms (compile: 117ms, render: 399ms)
+ GET / 200 in 128ms (compile: 32ms, render: 96ms)
+ GET / 200 in 730ms (compile: 90ms, render: 640ms)
+✓ Compiled in 461ms
+✓ Compiled in 642ms
+✓ Compiled in 2.8s

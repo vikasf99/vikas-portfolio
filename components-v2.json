@@ -1,0 +1,32 @@
+{
+  "$schema": "https://ui.shadcn.com/schema.json",
+  "style": "new-york",
+  "rsc": true,
+  "tsx": true,
+  "tailwind": {
+    "config": "",
+    "css": "src/app/globals.css",
+    "baseColor": "neutral",
+    "cssVariables": true,
+    "prefix": ""
+  },
+  "iconLibrary": "lucide",
+  "aliases": {
+    "components": "@/components",
+    "utils": "@/lib/utils",
+    "ui": "@/components/ui-v2",
+    "lib": "@/lib",
+    "hooks": "@/hooks"
+  },
+  "registries": {
+    "@reui": "https://reui.io/r/{name}.json"
+  },
+  "_documentation": {
+    "avatar-group": {
+      "source": "@reui/avatar-group, @reui/avatar-group-flip-animation",
+      "flipAnimation": "On hover, avatar moves to front (z-index) and scales to 110%. Transition: 200ms ease-out.",
+      "layout": "margin-top: 16px, margin-bottom: 0. Override via style prop.",
+      "tooltip": "Use AvatarGroupItem + AvatarGroupTooltip. AvatarGroup accepts tooltipClassName (applied to all tooltips). Each item: AvatarGroupItem > Avatar (+ AvatarFallback) + AvatarGroupTooltip (children: name, role, etc.). Tooltip shows on hover with same properties as reference (flex flex-col gap-0.5 text-center, etc.)."
+    }
+  }
+}
